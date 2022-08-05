@@ -13,8 +13,11 @@ Use "Git Clone git@github.com:Tehseus/horiseon-refactor.git" to pull down reposi
 link to repo: https://github.com/Tehseus/horiseon-refactor
 link to deployed application: https://tehseus.github.io/horiseon-refactor/
 
+## Screenshots
 
-    
+![App Screenshot](https://github.com/Tehseus/horiseon-refactor/blob/main/assets/images/example_screenshot.PNG)
+
+
 ## Optimizations
 
 In HTML:
