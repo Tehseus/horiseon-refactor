@@ -10,6 +10,10 @@ Install my project via git bash
 
 Use "Git Clone git@github.com:Tehseus/horiseon-refactor.git" to pull down repository
 
+link to repo: https://github.com/Tehseus/horiseon-refactor
+link to deployed application: https://tehseus.github.io/horiseon-refactor/
+
+
     
 ## Optimizations
 
